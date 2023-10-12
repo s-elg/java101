@@ -1,4 +1,4 @@
-package odevler;
+package assingments;
 
 import java.util.Scanner;
 
