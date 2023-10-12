@@ -1,4 +1,4 @@
-package odevler;
+package assignments;
 
 import java.util.Scanner;
 public class KdvCalculation {
